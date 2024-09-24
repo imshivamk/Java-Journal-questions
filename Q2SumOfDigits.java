@@ -8,7 +8,7 @@ public class Q2SumOfDigits {
         System.out.println("Enter the number:");
         Scanner sc = new Scanner(System.in);
         int num = sc.nextInt();
-        sumOfDigits(num);
+        System.out.println("The sum of the digits are " + sumOfDigits(num));
 
     }
     static int sumOfDigits(int num){

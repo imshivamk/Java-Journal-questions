@@ -1,0 +1,38 @@
+Q.1 Write a java program to display table of a given number
+Q.2 Write a java program to find out sum of digit of given number
+Q.3 Write a java program to reverse a given number
+Q.4 Write a java program to check given number is prime number or not
+Q.5 Write a program to find out series of prime numbers from a given range, where the range is entered by user.
+Q.6 Write a java program to check the given number is Palindrome  
+ Number or not
+Q.7 Write a java program to check given year is leap year or not
+Q.8 Write a java program to display the Fibonacci Series up to the limit
+Q.9 Write a java program to find the factorial of a given number
+Q.10 Write a java program to check the given number is Armstrong
+Number or not
+Q.11 Write a program to check whether a given number is Perfect or not.
+Q.12 Write a program to display all numbers between 1 and 100, which are divisible by 7.
+
+Q.13 Write a program to display the absent digits from a given number.
+
+Q.14 Write a program to convert decimal number to its binary, octal and hexadecimal equivalents.
+
+Q.15 Write a program to convert binary number to its decimal equivalent.
+
+Q.16 Write a Java program that searches a value in an m x n matrix.
+
+Q.17 Write a Java program which iterates the integers from 1 to 100. For multiples of three print "Fizz" instead of the number and print "Buzz" for the multiples of five. When number is divided by both three and five, print "fizz buzz".
+Q.18 Write a Java program to check whether a given integer is a power of 4 or not. Given num = 64, return true. Given num = 6, return false.
+
+Q.19 Write a Java program than read an integer and calculate the sum of its digits and write the number of each digit of the sum in English.
+
+Q.20 Write a Java program to convert seconds to hour, minute and seconds.
+Q.21 Write a Java program to print numbers between 1 to 100 which are divisible by 3, 5 and by both.
+
+Q.22 Write a program to implement class and object concept.
+
+Q.23 WAP to demonstrate how Function Overloading is carried out for Swapping of two variables of the various data types namely Intergers, Floating Point Numbers & Character Type
+Q.24 Write a Java program to find a Square of given number belonging to the three data types, namely Integers, Floating Point & Double Precision number using Overloading of Fucntions
+Q.25 Write a program to copy the contents of one array into another in reverse order.
+Q.26. Write a program to sort elements stored in an array.
+Q.27 Write a program to implement Multiple Inheritance using interface.
