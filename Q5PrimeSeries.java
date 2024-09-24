@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// Q.5 Write a program to find out series of prime numbers from a given range, where the range is entered by user.
 public class Q5PrimeSeries {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

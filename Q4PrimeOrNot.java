@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// Q.4 Write a java program to check given number is prime number or not
 public class Q4PrimeOrNot {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

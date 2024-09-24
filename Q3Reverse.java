@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// Q.3 Write a java program to reverse a given number
 public class Q3Reverse {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
