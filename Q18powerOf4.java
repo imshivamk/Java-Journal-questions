@@ -18,7 +18,7 @@ public class Q18powerOf4 {
     static boolean powerOf4(int num){
 
         for (int i = 0; i < 100; i++) {
-            if (Math.pow(i, 4)==num) {
+            if (Math.pow(4,i)==num) {
                 return true;
             }
         }
